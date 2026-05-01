@@ -131,4 +131,4 @@ The script expects a JSON file in the project directory.
 Default input file name:
 
 ```text
-cyber_events_2026-05-01.json
+cyber_events_2026-05-01.json ==> https://cybereventsdatabase.org/dashboard
